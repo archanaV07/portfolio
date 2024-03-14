@@ -1,2 +1,2 @@
-# portfolio
-software engineer
+# Portfolio
+Software Engineer
